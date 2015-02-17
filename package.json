@@ -1,0 +1,20 @@
+{
+  "name": "GTCounter",
+  "version": "1.0.0",
+  "description": "Simple countdown illustrator with a futuristic clock and simple text - can only countdown up to 59 minutes and 50 seconds.",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  }
+}

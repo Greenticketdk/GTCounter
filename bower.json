@@ -1,0 +1,22 @@
+{
+  "name": "GTCounter",
+  "version": "1.0.0",
+  "authors": [
+    "Hagbarth <spjerx@gmail.com>"
+  ],
+  "description": "Simple countdown clock, built on HTML5 canvax, that currently can handle up to 59 minutes and 59 seconds.",
+  "main": "dist/counter.min.js",
+  "keywords": [
+    "canvas",
+    "countdown"
+  ],
+  "homepage": "https://github.com/Greenticketdk/GTCounter",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
