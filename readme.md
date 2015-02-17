@@ -4,7 +4,7 @@ This is just a simple countdown clock that currently handles countdowns up to 59
 ![A countdown clock](https://greenticket-dk.s3.amazonaws.com/images/counter.gif "Counter")
 
 ##Installation
-Just add it to composer
+Just add it to bower
 ```
 bower install greenticket-gt-counter
 ```
