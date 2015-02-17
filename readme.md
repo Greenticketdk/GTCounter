@@ -6,7 +6,7 @@ This is just a simple countdown clock that currently handles countdowns up to 59
 ##Installation
 Just add it to composer
 ```
-composer install {repo}
+bower install greenticket-gt-counter
 ```
 Or download the repo from this page and include counter.min.js
 ```html
