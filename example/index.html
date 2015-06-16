@@ -6,9 +6,9 @@
 </head>
 <body>
     <div id="gt-counter-container"></div>
-    <script src="../dist/counter.min.js"></script>
+    <script src="../src/counter.js"></script>
     <script>
-    new GT.Views.Countdown().start();
+    new GT.Views.Countdown({showCircles: false, minText: '  ', secText: '  ', height: 100}).start();
     </script>
 </body>
 </html>
